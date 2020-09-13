@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
 	name = "tencentOcr",
-	version = "0.1",
-	url = 'https://github.com/snowroll/python-sdk.git',
+	version = "0.2",
+	url = 'https://github.com/DevilHill/TencentOcr-sdk.git',
 	long_description = open('README.md').read(),
 	packages = find_packages(),
 )
